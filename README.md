@@ -1,2 +1,2 @@
 # practice-questions
-Easy to hard Java Programming questions
+Easy to hard Java Programming questions.
