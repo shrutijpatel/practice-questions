@@ -1,4 +1,5 @@
-public static void main(String arg[])   
+public class main { 
+  public static void main(String arg[])   
 {
   Scanner sc=new Scanner(System.in); //decimal number
     int n=sc.nextInt();
@@ -13,4 +14,5 @@ public static void main(String arg[])
       {
          System.out.print(bin[j]);
       }
+}
 }
