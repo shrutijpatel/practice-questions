@@ -1,4 +1,4 @@
-# Input and Add Numbers:
+# Take Input and Add Numbers:
 What about practicing taking input?
 Write a program to take two integers x and y as input from the user, add those two integers and print the output.
 
@@ -23,7 +23,7 @@ Print the addition of x and y.
 # Sample Test Case Explanation:
 4+5=9
 
-*******************************************************************************************
+*************************************************************************************
 
 import java.util.*;
   import java.io.*;
