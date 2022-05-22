@@ -30,8 +30,8 @@ so she has to remove both to get a pair, therefore the output is 2.
   
 ********************************************************************************
 
-import java.util.*;
-  import java.io.*;
+
+
   
   public class Main {
     public static void main(String args[]) {
