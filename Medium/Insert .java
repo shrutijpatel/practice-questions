@@ -35,5 +35,5 @@ Output:
   2
   3
   4
-  Enter the element which you want to insert:5
-  After inserting : 1,2,3,4,5
+
+
