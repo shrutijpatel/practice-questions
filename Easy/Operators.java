@@ -26,8 +26,8 @@ Print the relation between X and Y.
   Output
   4 is smaller than 6
  
-# Sample test case explanation:
-Since 4<6, print 4 is smaller than 6 
+
+
   
 ***********************************************************************************
 
